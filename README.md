@@ -26,3 +26,5 @@
 
 2. 시리얼 모니터 아두이노 설정할때 line ending 없음 9600보드레이트로 하고 앱과 연결할때는 Both NL & CR로 선택해야한다.
 
+참고 https://bugwhale.tistory.com/11
+render error 날때 styles.xml "Theme.AppCompat.Light.DarkActionBar"to "Base.Theme.AppCompat.Light.DarkActionBar"
