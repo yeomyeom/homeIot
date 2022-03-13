@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LightSwitch</string>
     <string name="btnStartLightSwitch_name">전등ON/OFF</string>
+    <string name="btnClikcLightSwitch_name">Bluetooth임</string>
 </resources>

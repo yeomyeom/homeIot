@@ -10,7 +10,7 @@
 #define TURN_LEFT 'b'
 #define TURN_OFF  'c' //종료
 #define TURN_ON   's' //시작
-#define ANGLE_OFFSET 10
+#define ANGLE_OFFSET 20
 
 SoftwareSerial bluetooth(BT_RXD, BT_TXD);
 Servo servo;
